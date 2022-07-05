@@ -2,3 +2,6 @@ welcome to my world
 iam new to github 
 i just wanted to learn this
 i just wanted to check the if new line addaed what s bieing heppening
+
+
+i am writng for testing of wether ne w file is crwated or not
